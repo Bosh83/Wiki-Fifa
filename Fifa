@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>FIFA Wiki</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur FIFA Wiki</h1>
+        <nav>
+            <ul>
+                <li><a href="#histoire">Histoire</a></li>
+                <li><a href="#gameplay">Gameplay</a></li>
+                <li><a href="#equipes">Équipes</a></li>
+                <li><a href="#competitions">Compétitions</a></li>
+                <li><a href="#culture">Culture</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="histoire">
+            <h2>Histoire de FIFA</h2>
+            <p>FIFA a été lancé pour la première fois en [année]...</p>
+        </section>
+        <section id="gameplay">
+            <h2>Gameplay</h2>
+            <p>FIFA propose plusieurs modes de jeu...</p>
+        </section>
+        <!-- Ajoute d'autres sections ici -->
+    </main>
+    <footer>
+        <p>&copy; 2024 FIFA Wiki</p>
+    </footer>
+</body>
+</html>
